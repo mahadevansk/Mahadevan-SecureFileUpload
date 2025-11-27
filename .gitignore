@@ -1,0 +1,168 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+.nuget/
+project.json
+project.lock.json
+packages/
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+migrations/
+
+# File Storage
+uploads/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+pnpm-lock.yaml
+.npm
+dist/
+.next/
+out/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.code-workspace
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Vite
+.vite/
+dist/
+
+# OS
+.DS_Store
+Desktop.ini
+
+# Application logs
+logs/
+*.log
+nohup.out
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE settings
+.editorconfig
+.prettierrc
+.prettierignore
+
+# Rider
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# App Insights
+ApplicationInsights.config
+
+# LocalDB
+*.mdf
+*.ldf
+
+# SSDT
+*.jfm
+
+# Build folders
+artifacts/
+publish/
+
+# Visual Studio
+.vs/
+.vscode/extensions/
+settings.json
+
+# Azure
+local.settings.json
+*.PublishSettings
+PublishProfiles/
+
+# Webpack
+webpack.config.js.orig
+
+# Misc
+.cache/
+.grunt/
+.parcel-cache/
+dist/
+.cache-loader/
+.eslintcache
+.node_repl_history
+*.tsbuildinfo
+
+# Lock files (optional - uncomment if you want to commit them)
+# package-lock.json
+# yarn.lock
